@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sammy Lao #
 199-4936 Yonge Street
 Toronto ON M2N 6S3
