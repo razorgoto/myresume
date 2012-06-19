@@ -5,20 +5,43 @@ accudity@gmail.com
 416-832-8000
 *****
 
-## Education
+# Work Experience
 
-2007
-Seneca College
-Graduate Certificate in Technical Communication
+### Executive Director
+Free Geek Toronto
 
+February 2012 – Present(5 months)
+- Grant application and management
 
-2004
-Queen's University
-Bachelor of Arts Degree in Political Studies
-****
-## Work Experience
+### Chief Technology Officer
+Free Geek Toronto
 
-### Junior Process Analyst
+June 2011 –February 2012(9 months)
+
+- Manage information systems
+- Consult on technical sales
+- Coordinate volunteers interested in technology
+
+### Technical Writer
+March 2008 –November 2011(3 years 9 months)
+Weston Forest Products
+
+- Document operational processes
+- Create user manuals for software systems
+- Create planning documents for software implementation
+- Create curriculum and teach users on software systems
+- Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, CHTWPCP
+
+### Webmaster - Social Media
+
+December 2009 –June 2011(1 year 7 months)
+Free Geek Toronto
+
+- Manage Drupal instance
+- Manage email system
+- Create use case documents for existing software resources
+
+### Technical Writer (Internship) 
 
 2007
 Weston Forest Group
@@ -52,7 +75,18 @@ Toronto, ON
 * Produced stories in print and audio for the Regent Park community
 
 *****
+## Education
 
+2007
+Seneca College
+Graduate Certificate in Technical Communication
+
+
+2004
+Queen's University
+Bachelor of Arts Degree in Political Studies
+****
+#
 ## Software
 
 * Adobe Framemaker
