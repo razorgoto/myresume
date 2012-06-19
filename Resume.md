@@ -12,6 +12,7 @@ Free Geek Toronto
 
 February 2012 – Present(5 months)
 - Grant application and management
+- Strategic directions, planning, and initiatives
 
 ### Chief Technology Officer
 Free Geek Toronto
@@ -87,21 +88,32 @@ Queen's University
 Bachelor of Arts Degree in Political Studies
 ****
 #
-## Software
-
+## Skills
+* Skills
+* Technical Writing 
+* Policy 
+* Process Mapping 
+* Training & Development 
+* Social Media 
+* Teaching 
+* Customer Relations 
+* Strategic Planning 
+* Problem Solving 
+* Technical Writers 
+* Visio 
+* OmniGraffle 
+* User Flows 
+* Paper Prototyping 
+* Affinity Diagramming 
+* User Acceptance Testing 
+* UAT coordination 
+* Experienced Business Analyst 
+* Requirements Gathering 
+* Use Case Analysis 
+* XML 
 * Adobe Framemaker
 * Adobe Pagemaker
 * Adobe Photoshop
 * Microsoft Outlook
 * Microsoft Office
 * Microsoft Visio	
-
-*****
-
-## Associations
-### Society for Technical Communication
-International society for professionals in the field of technical communication
-### ACE Seneca
-* Student-led organization for the advancement of entrepreneurship in Canada
-### Asian Freedom Arts School
-* Youth-based, arts collaborative
