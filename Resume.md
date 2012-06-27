@@ -14,17 +14,19 @@ February 2012 – Present(5 months)
 - Grant application and management
 - Strategic directions, planning, and initiatives
 
+
 ### Chief Technology Officer
 Free Geek Toronto
 
-June 2011 –February 2012(9 months)
+June 2011 – February 2012(9 months)
 
 - Manage information systems
 - Consult on technical sales
 - Coordinate volunteers interested in technology
+- Create security policies
 
 ### Technical Writer
-March 2008 –November 2011(3 years 9 months)
+March 2008 – November 2011(3 years 9 months)
 Weston Forest Products
 
 - Document operational processes
@@ -89,7 +91,6 @@ Bachelor of Arts Degree in Political Studies
 ****
 #
 ## Skills
-* Skills
 * Technical Writing 
 * Policy 
 * Process Mapping 
