@@ -18,7 +18,7 @@ Free Geek Toronto
 
 February 2012 - Present(5 months)
 - Grant application and management
-- Strategic directions, planning, and initiatives
+- 
 - Manage volunteers and staff
 
 ### Chief Technology Officer
@@ -67,9 +67,9 @@ Weston Premium Woods
 Weston Forest Group
 Mississauga, ON
 
-* Developed internal user guides for back office employees
-* Developed company's official IT usage guideline for technology resources
-* Documented business critical procedures within the IT department
+- Developed internal user guides for back office employees
+- Developed company's official IT usage guideline for technology resources
+- Documented business critical procedures within the IT department
 
 ### Instructor
 
@@ -77,8 +77,8 @@ Mississauga, ON
 Happy Hours School of Bartending
 Toronto, ON 
 
-* Taught the Smart Serve Ontario certification program for alcohol service
-* Developed curriculum material
+- Taught the Smart Serve Ontario certification program for alcohol service
+- Developed curriculum material
 
 ### Proxy Agent
 
@@ -86,7 +86,7 @@ Toronto, ON
 Computershare Fund Services
 Toronto, ON
 
-* Explained changes to client's fund investments in a clear and understandable manner
+- Explained changes to client's fund investments in a clear and understandable manner
 
 ### Community Reporter
 
@@ -94,7 +94,7 @@ Toronto, ON
 Regent Park Focus
 Toronto, ON
 
-* Produced stories in print and audio for the Regent Park community
+- Produced stories in print and audio for the Regent Park community
 
 *****
 
@@ -112,30 +112,30 @@ Bachelor of Arts Degree in Political Studies
 
 #
 ## Skills
-* Technical Writing 
-* Policy 
-* Process Mapping 
-* Training & Development 
-* Social Media 
-* Teaching 
-* Customer Relations 
-* Strategic Planning 
-* Problem Solving 
-* Technical Writers 
-* Visio 
-* OmniGraffle 
-* User Flows 
-* Paper Prototyping 
-* Affinity Diagramming 
-* User Acceptance Testing 
-* UAT coordination 
-* Experienced Business Analyst 
-* Requirements Gathering 
-* Use Case Analysis 
-* XML 
-* Adobe Framemaker
-* Adobe Pagemaker
-* Adobe Photoshop
-* Microsoft Outlook
-* Microsoft Office
-* Microsoft Visio	
+- Technical Writing 
+- Policy 
+- Process Mapping 
+- Training & Development 
+- Social Media 
+- Teaching 
+- Customer Relations 
+- Strategic Planning 
+- Problem Solving 
+- Technical Writers 
+- Visio 
+- OmniGraffle 
+- User Flows 
+- Paper Prototyping 
+- Affinity Diagramming 
+- User Acceptance Testing 
+- UAT coordination 
+- Experienced Business Analyst 
+- Requirements Gathering 
+- Use Case Analysis 
+- XML 
+- Adobe Framemaker
+- Adobe Pagemaker
+- Adobe Photoshop
+- Microsoft Outlook
+- Microsoft Office
+- Microsoft Visio	
