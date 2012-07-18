@@ -27,11 +27,11 @@ Free Geek Toronto
 
 June 2011 - February 2012(9 months)
 
-- Manage information systems
 - Consult on technical sales
 - Coordinate volunteers interested in technology
 - Create security policies
 - Implemented SugarCRM
+- Manage information systems
 
 ### Technical Writer
 
@@ -43,13 +43,11 @@ Weston Forest Products
 - Create planning documents for software implementation
 - Create curriculum and teach users on software systems
 - Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, CHTWPCP
-- Create project documentation, requirements, timeline for $100,000 software project
+- Create project documentation, requirements, timeline for company-wide  software ERP system. 
 
 ### Webmaster - Social Media
-
 December 2009 –June 2011(1 year 7 months)
 Free Geek Toronto
-
 - Manage Drupal instance
 - Manage email system
 - Create use case documents for existing software resources
@@ -59,7 +57,7 @@ Weston Premium Woods
 - Create standard operating procedures
 - Create work flow diagrams
 - Create curriculum material for employee training
-- Implemented custom ERP system
+- Implemented custom company-wide ERP system
 
 ### Technical Writer (Internship) 
 
