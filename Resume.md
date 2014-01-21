@@ -1,114 +1,85 @@
-# Sammy Lao #
-
-199-4936 Yonge Street
-
-Toronto ON M2N 6S3
-
-accudity@gmail.com
-
-416-832-8000
+# Sammy Lao
+85 Roseheath Drive Vaughan ON 
+sammy.lao@outlook.com
 
 *****
 
-# Work Experience
-
-### Executive Director
-
-Free Geek Toronto
-
-February 2012 - Present(5 months)
-- Grant application and management
-- 
-- Manage volunteers and staff
-
-### Chief Technology Officer
-
-Free Geek Toronto
-
-June 2011 - February 2012(9 months)
-
-- Consult on technical sales
-- Coordinate volunteers interested in technology
-- Create security policies
-- Implemented SugarCRM
-- Manage information systems
+## Work Experience
 
 ### Technical Writer
-
-March 2008 – November 2011(3 years 9 months)
+March 2008 – Present
 Weston Forest Products
-
-- Document operational processes
+- Draft operational policies
+- Convert approved policies into work breakdown structures
 - Create user manuals for software systems
 - Create planning documents for software implementation
 - Create curriculum and teach users on software systems
-- Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, CHTWPCP
-- Create project documentation, requirements, timeline for company-wide  software ERP system. 
+- Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, ISPM 15
+- Create project documentation, requirements, timeline for company-wide systems implementation 
+
+### Technology Officer
+June 2011 - February 2012
+Free Geek Toronto
+- Consult on technical hardware sales
+- Coordinate volunteers interested in technology
+- Create IT security policies
+- Implement a Customer Relationship Management System 
+- Manage database systems
 
 ### Webmaster - Social Media
-December 2009 –June 2011(1 year 7 months)
+Dec 2009 – Jun 2011
 Free Geek Toronto
 - Manage Drupal instance
-- Manage email system
+- Administrate email system and mass mailing list
 - Create use case documents for existing software resources
 
 ### Process Analyst
+July 2008 - Dec 2009
 Weston Premium Woods
 - Create standard operating procedures
-- Create work flow diagrams
+- Create work flow diagrams for existing and planned processes
 - Create curriculum material for employee training
 - Implemented custom company-wide ERP system
 
-### Technical Writer (Internship) 
-
-2007
+### Jr. Technical Writer (Internship) 
+Jan 2007 - April 2007
 Weston Forest Group
-Mississauga, ON
-
 - Developed internal user guides for back office employees
 - Developed company's official IT usage guideline for technology resources
 - Documented business critical procedures within the IT department
 
 ### Instructor
-
-2007
+2005 - 2007
 Happy Hours School of Bartending
-Toronto, ON 
-
 - Taught the Smart Serve Ontario certification program for alcohol service
-- Developed curriculum material
+- Developed syllabus for instruction
+- Proctor for written examination
 
 ### Proxy Agent
-
 2006
 Computershare Fund Services
-Toronto, ON
-
 - Explained changes to client's fund investments in a clear and understandable manner
 
 ### Community Reporter
-
 2005
 Regent Park Focus
-Toronto, ON
-
-- Produced stories in print and audio for the Regent Park community
-
-*****
-
-## Education
-
-2007
-Seneca College
-Graduate Certificate in Technical Communication
-
-2004
-Queen's University
-Bachelor of Arts Degree in Political Studies
+- Write print stories for youths between 13-24 years
+- Co-host a weekly audio segment in the Regent Park community
 
 ****
 
-#
+## Education
+
+### Graduate Certificate in Technical Communication
+2007
+Seneca College
+
+### Bachelor of Arts in Political Studies
+2004
+Queen's University
+
+****
+
 ## Skills
 - Technical Writing 
 - Policy 
@@ -118,7 +89,8 @@ Bachelor of Arts Degree in Political Studies
 - Teaching 
 - Customer Relations 
 - Strategic Planning 
-- Problem Solving 
+- Problem Solving
+- Sharepoint 
 - Technical Writers 
 - Visio 
 - OmniGraffle 
@@ -127,7 +99,7 @@ Bachelor of Arts Degree in Political Studies
 - Affinity Diagramming 
 - User Acceptance Testing 
 - UAT coordination 
-- Experienced Business Analyst 
+- Process 
 - Requirements Gathering 
 - Use Case Analysis 
 - XML 
@@ -137,3 +109,10 @@ Bachelor of Arts Degree in Political Studies
 - Microsoft Outlook
 - Microsoft Office
 - Microsoft Visio	
+- HTML
+- Adobe CS suite
+- Single-sourcing
+- Linux
+- Adobe Acrobat
+- Madcap Flare
+- HTML
