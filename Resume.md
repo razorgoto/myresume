@@ -44,21 +44,21 @@ Weston Premium Woods
 ### Jr. Technical Writer (Internship) 
 Jan 2007 - April 2007
 Weston Forest Group
-- Developed internal user guides for back office employees
-- Developed company's official IT usage guideline for technology resources
-- Documented business critical procedures within the IT department
+- Develop an internal user guides for back office employees
+- Develop company's official IT usage guideline for technology resources
+- Document business critical procedures for the IT department
 
 ### Instructor
 2005 - 2007
 Happy Hours School of Bartending
-- Taught the Smart Serve Ontario certification program for alcohol service
-- Developed syllabus for instruction
+- Teach the Smart Serve Ontario certification program for alcohol service
+- Develope syllabus for instruction
 - Proctor for written examination
 
 ### Proxy Agent
 2006
 Computershare Fund Services
-- Explained changes to client's fund investments in a clear and understandable manner
+- Explain changes to client's fund investments in a clear and understandable manner
 
 ### Community Reporter
 2005
