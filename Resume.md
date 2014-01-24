@@ -91,7 +91,7 @@ Queen's University
 - Strategic Planning 
 - Problem Solving
 - Sharepoint 
-- Technical Writers 
+- Editing
 - Visio 
 - OmniGraffle 
 - User Flows 
@@ -111,6 +111,25 @@ Queen's University
 - Microsoft Visio	
 - HTML
 - Adobe CS suite
+- wiki
+- CMS
+- Wordpress
+- Drupal
+- LMS (Learning Management System)
+- Moodle
+- Openoffice
+- Markdown
+- Styl guide
+- VIM
+- Visio
+- Omnigraffle
+- OmniPlan
+- Gantt Charts
+- Quality Manual
+- Compliance Program
+- Quality Assurance Program
+- Compliance auditing
+- Smoothwall
 - Single-sourcing
 - Linux
 - Adobe Acrobat
