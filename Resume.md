@@ -153,7 +153,7 @@ Skills
 -   Moodle
 -   Openoffice
 -   Markdown
--   Styl guide
+-   Style guide
 -   VIM
 -   Visio
 -   Omnigraffle
