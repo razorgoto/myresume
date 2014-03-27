@@ -1,20 +1,18 @@
 Sammy Lao
 =========
+- 85 Roseheath Drive, Vaughan Ontario
+- email: sammy.lao@outlook.com
+- Twitter: @razorgoto
+- Tel: 416-832-8000
 
-85 Roseheath Drive Vaughan Ontario
-
-sammy.lao@outlook.com
-
-Twitter: @razorgoto
-
-416-832-8000
+* * * * *
 
 Work Experience 
----------------
+=========
 
-### Weston Forest Group
+## Weston Forest Group
 
-#### Technical Writer
+### Technical Writer
 
 March 2008 to Present
 
@@ -27,7 +25,7 @@ March 2008 to Present
 -   Create project documentation, requirements, timeline for
     company-wide systems implementation
 
-#### Process Analyst 
+### Process Analyst 
 
 July 2008 to Dec 2009
 
@@ -36,7 +34,7 @@ July 2008 to Dec 2009
 -   Create curriculum material for employee training
 -   Implement custom company-wide ERP system
 
-#### Jr. Technical Writer (Internship) 
+### Jr. Technical Writer (Internship) 
 
 Jan 2007 to April 2007
 
@@ -45,9 +43,9 @@ Jan 2007 to April 2007
     resources
 -   Document business critical procedures for the IT department
 
-### Free Geek Toronto 
+## Free Geek Toronto 
 
-#### Chief Technology Officer
+### Chief Technology Officer
 
 June 2011 to February 2012
 
@@ -57,7 +55,7 @@ June 2011 to February 2012
 -   Implement a Customer Relationship Management System (CRM)
 -   Manage database systems
 
-#### Webmaster - Social Media
+### Webmaster - Social Media
 
 Dec 2009 to Jun 2011
 
@@ -65,9 +63,9 @@ Dec 2009 to Jun 2011
 -   Administrate email system and mass mailing list
 -   Create use case documents for existing software resources
 
-### Happy Hours School of Bartending
+## Happy Hours School of Bartending
 
-#### Instructor
+### Instructor
 
 2005 - 2007
 
@@ -76,46 +74,45 @@ Dec 2009 to Jun 2011
 -   Develop syllabus for instruction
 -   Act as proctor for written examination
 
-### Computershare Fund Services
+## Computershare Fund Services
 
-#### Proxy Agent 
+### Proxy Agent 
 
 2006
 
 -   Explain changes to fund investments in a clear and
     understandable manner
 
-### Regent Park Focus
+## Regent Park Focus
 
-#### Community Reporter
+### Community Reporter
 
 2005
 
 -   Write print stories for youths between 13–24 years
 -   Co-host a weekly audio segment in the Regent Park community
 
-* * * * *
-
 Education
----------
+=========
 
-### Seneca College 
+## Seneca College 
 
-#### Graduate Certificate in Technical Communication
+### Graduate Certificate in Technical Communication
 
 2007
 
-### Queen's University 
+- Learn to design, research, draft, edit and produce technical documents for a wide range of audiences and purposes
 
-#### Bachelor of Arts in Political Studies
+## Queen's University 
+
+### Bachelor of Arts in Political Studies
 
 2004
 
-* * * * *
+- Learn to speak and write clearly
 
 Skills
-------
-
+=========
 -   Technical Writing
 -   Policy
 -   Process Mapping
