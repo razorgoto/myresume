@@ -7,6 +7,7 @@ sammy.lao@outlook.com
 
 Twitter: @razorgoto
 
+416-832-8000
 
 Work Experience 
 ---------------
@@ -22,8 +23,7 @@ March 2008 to Present
 -   Create user manuals for software systems
 -   Create planning documents for software implementation
 -   Create curriculum and teach users on software systems
--   Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, ISPM
-    15
+-   Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, ISPM-15
 -   Create project documentation, requirements, timeline for
     company-wide systems implementation
 
@@ -34,7 +34,7 @@ July 2008 to Dec 2009
 -   Create standard operating procedures
 -   Create work flow diagrams for existing and planned processes
 -   Create curriculum material for employee training
--   Implemented custom company-wide ERP system
+-   Implement custom company-wide ERP system
 
 #### Jr. Technical Writer (Internship) 
 
@@ -47,14 +47,14 @@ Jan 2007 to April 2007
 
 ### Free Geek Toronto 
 
-#### Technology Officer
+#### Chief Technology Officer
 
 June 2011 to February 2012
 
 -   Consult on technical hardware sales
--   Coordinate volunteers interested in technology
+-   Coordinate tech-driven volunteers
 -   Create IT security policies
--   Implement a Customer Relationship Management System
+-   Implement a Customer Relationship Management System (CRM)
 -   Manage database systems
 
 #### Webmaster - Social Media
@@ -73,8 +73,8 @@ Dec 2009 to Jun 2011
 
 -   Teach the Smart Serve Ontario certification program for alcohol
     service
--   Develope syllabus for instruction
--   Proctor for written examination
+-   Develop syllabus for instruction
+-   Act as proctor for written examination
 
 ### Computershare Fund Services
 
