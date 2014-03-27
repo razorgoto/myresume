@@ -1,7 +1,3 @@
-% readme
-% Sammy Lao
-% 
-
 myresume
 ========
 
