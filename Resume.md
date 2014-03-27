@@ -22,8 +22,7 @@ March 2008 to Present
 -   Create planning documents for software implementation
 -   Create curriculum and teach users on software systems
 -   Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, ISPM-15
--   Create project documentation, requirements, timeline for
-    company-wide systems implementation
+-   Create project documentation, requirements, timeline for company-wide systems implementation
 
 ### Process Analyst 
 
@@ -39,8 +38,7 @@ July 2008 to Dec 2009
 Jan 2007 to April 2007
 
 -   Develop an internal user guides for back office employees
--   Develop company’s official IT usage guideline for technology
-    resources
+-   Develop corporate IT usage guideline for technology resources
 -   Document business critical procedures for the IT department
 
 ## Free Geek Toronto 
@@ -80,8 +78,7 @@ Dec 2009 to Jun 2011
 
 2006
 
--   Explain changes to fund investments in a clear and
-    understandable manner
+-   Explain changes to fund investments in a clear and understandable manner
 
 ## Regent Park Focus
 
