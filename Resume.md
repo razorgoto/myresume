@@ -1,10 +1,12 @@
 Sammy Lao
 =========
 
+--------------------------------
 | Address | 85 Roseheath Drive |
 | email | sammy.lao@outlook.com |
 | Twitter | @razorgoto |
 | Tel | 416-832-8000 |
+----------------------
 
 Work Experience 
 =========
