@@ -12,18 +12,40 @@ body {
 
 header {
     font-family: "Helvetica"; non-serif;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
 }
 
 header h1 {
-    font-size: 20pt;
+    font-size: 24pt;
     letter-spacing: 2pt;
     border-bottom: 1px solid black;
     margin-bottom: 4px;
 }
 
+header h2 {
+    font-size: 18pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+header h3 {
+    font-size: 16pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+header h3 {
+    font-size: 14pt;
+    letter-spacing: 2pt;
+    border-bottom: 1px solid black;
+    margin-bottom: 4px;
+}
+
+
 header span {
-    font-size: 10pt;
+    font-size: 5pt;
     float: right;
 }
 
@@ -69,7 +91,6 @@ section ul {
 
 .table {
     display: table;
-    margin-left: 20px;
 }
 
 .tablerow {
