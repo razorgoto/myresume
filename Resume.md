@@ -110,7 +110,7 @@ Dec 2009 to Jun 2011
 
 ### Customs Inspector
 
-2001
+2002
 
 - Greet and interviews travellers
 - Check documents to make sure all travellers are eligible for entry
