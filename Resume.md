@@ -115,7 +115,7 @@ Dec 2009 to Jun 2011
 - Greet and interviews travellers
 - Check documents to make sure all travellers are eligible for entry
 - Check all goods are declared and applicable duties are collected
-- Check animals are plants are admissible into Canada
+- Check animals and plants are admissible into Canada
 
 
 Education
