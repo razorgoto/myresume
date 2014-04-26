@@ -75,7 +75,7 @@ Dec 2009 to Jun 2011
 
 ## Happy Hours School of Bartending
 
-### Instructor
+### Trainer
 
 2005 - 2007
 
@@ -83,7 +83,7 @@ Dec 2009 to Jun 2011
 - Teaching/showing the tricks of the trade to aspiring bartenders
 - Entertain and inspire corporate clients at events
 - Create, organize and execute promotional events
-- Develop syllabus for instruction
+- Develop syllabus and training material for instruction
 
 ## Computershare Fund Services
 
