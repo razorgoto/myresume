@@ -69,7 +69,6 @@ Dec 2009 to Jun 2011
 
 - Manage Drupal instance
 - Implement a new email system
-- Co-ordinate the  
 - Create use case documents for existing software resources
 - Organize Toronto Linuxfest
 
