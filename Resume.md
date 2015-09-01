@@ -4,7 +4,7 @@ Sammy Lao
 Contact Me ||
 --------|-----------------------|
 Address | 85 Roseheath Drive    |
-        | Toronto, Canada       |
+        | Toronto, Ontario      |
 Email   | sammy.lao@outlook.com |
 Twitter | @razorgoto            |
 Tel     | 647-745-8328          |
