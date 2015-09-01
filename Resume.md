@@ -4,9 +4,10 @@ Sammy Lao
 Contact Me ||
 --------|-----------------------|
 Address | 85 Roseheath Drive    |
+        | Toronto, Canada       |
 Email   | sammy.lao@outlook.com |
-Twitter | @razorgoto |
-Tel     | 647-745-8328
+Twitter | @razorgoto            |
+Tel     | 647-745-8328          |
 
 Work Experience
 ===============
@@ -16,7 +17,7 @@ Desjardins Financial Security Life Assurance Company
 
 ### Contract Writer
 
-September 2014 – Present (1 year 1 month)Toronto, Canada Area
+September 2014 – Present (1 year 1 month)
 
 - Create contracts and agreements
 - Interpret terminology
