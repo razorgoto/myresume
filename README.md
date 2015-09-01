@@ -1,12 +1,9 @@
-myresume
+MYRESUME
 ========
 
-This the raw text of my resume hosted on github. I am also doing this as a way to learn Git and Markdown. Using git to manage this gives me a better workflow when trying to learn vim on the commandline. I also think that it is nifty.
+This is my resume.
+I am also doing this as a way to learn Git, Markdown, and Github.
 
-
-Output files in docx, pdf, and html can be downloaded here:
-
-http://bit.ly/samlao-resume
-
+The makefile included allows me to use pandoc to convert the Github-flavoured Markdown file into other formats. 
 
 Special thanks to my friend Jason for pointing out the use of a Make file for Pandoc to HTML conversion.
