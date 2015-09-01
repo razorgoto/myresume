@@ -38,7 +38,7 @@ March 2008 to August 2014
 -   Create planning documents for software implementation  
 -   Create curriculum and teach users on software systems  
 -   Co-ordinate industry and regulatory programs: FSC, SFI, C-TPAT, ISPM-15  
--   Create project documentation, requirements, timeline for   company-wide systems implementation
+-   Create project documentation, requirements, timeline for company-wide systems implementation
 
 ### Process Analyst
 
@@ -64,10 +64,8 @@ Free Geek Toronto
 
 February 2012 to April 2013
 
--   Ensure ongoing program excellence, fundraising, and consistent
-    quality of finance and administration  
--   Engage and energize volunteers, board members, partnering
-    organizations and funders  
+-   Ensure ongoing program excellence, fundraising, and consistent quality of finance and administration  
+-   Engage and energize volunteers, board members, partnering organizations and funders  
 -   Oversee the implementation of a Learning Management System  
 -   Develop, maintain, and support a strong board of directors
 
@@ -87,7 +85,6 @@ December 2009 to June 2011
 
 -   Manage Drupal instance  
 -   Implement a new email system  
--   Co-ordinate the  
 -   Create use case documents for existing software resources  
 -   Organize Toronto Linuxfest
 
