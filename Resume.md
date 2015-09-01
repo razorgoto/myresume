@@ -19,7 +19,8 @@ Desjardins Financial Security Life Assurance Company
 
 September 2014 to Present
 
-- Create contracts and agreements
+- Create insurance policies and financial agreements
+- Convert approved plan documents into agreements for implementation
 - Interpret terminology
 - Identify and assemble correct information from the database
 - Develop and maintain a database of contract wordings, manuals, brochures, and contract templates 
@@ -145,7 +146,7 @@ Seneca College
 
 2007
 
--   Learn to design, research, draft, edit and produce technical documents for a wide range of audiences and purposes
+- Learn to design, research, draft, edit and produce technical documents for a wide range of audiences and purposes
 
 Queen's University
 ------------------
@@ -154,90 +155,89 @@ Queen's University
 
 2004
 
--   Learn to speak and write clearly
+- Learn to speak and write clearly
 
 Skills
 ======
-
--   Technical Writing  
--   Corporate Policy  
--   Process Mapping  
--   Training & Development  
--   Social Media  
--   Teaching  
--   Customer Relations  
--   Strategic Planning  
--   Problem Solving  
--   Sharepoint  
--   Editing  
--   Visio  
--   User Flows  
--   Paper Prototyping  
--   Affinity Diagramming  
--   User Acceptance Testing  
--   UAT coordination  
--   Process  
--   Requirements Gathering  
--   Use Case Analysis  
--   XML  
--   Adobe Framemaker  
--   Adobe Pagemaker  
--   Adobe Photoshop  
--   Microsoft Outlook  
--   Microsoft Office  
--   Microsoft Visio  
--   HTML  
--   Adobe CS suite  
--   wiki  
--   CMS  
--   Wordpress  
--   Drupal  
--   LMS (Learning Management System)  
--   Moodle  
--   Openoffice  
--   Markdown  
--   Style guide  
--   VIM  
--   Omnigraffle  
--   OmniPlan  
--   Gantt Charts  
--   Quality Manual  
--   Compliance Program  
--   Quality Assurance Program  
--   Compliance Auditing  
--   Smoothwall  
--   Single-sourcing  
--   Linux  
--   Adobe Acrobat  
--   Madcap Flare  
--   Twitter  
--   Facebook  
--   Technical Writers  
--   UAT  
--   Coordination  
--   Experienced Business Analyst  
--   Business Process Mapping  
--   Customer Service  
--   Employee Training  
--   Nonprofits  
--   Social Media Marketing  
--   Leadership  
--   Sales  
--   Training  
--   Program Management  
--   FrameMaker  
--   Technical Communication  
--   Technical Documentation  
--   Online Help  
--   Project Planning  
--   Content Management  
--   Manuals  
--   Interviews  
--   Software Documentation  
--   Business Process  
--   Microsoft Word  
--   Process Improvement  
--   Entrepreneurship  
--   Microsoft Excel  
--   Management  
--   Public Speaking
+- Technical Writing 
+- Corporate Policy 
+- Process Mapping 
+- Training & Development 
+- Social Media 
+- Teaching 
+- Customer Relations 
+- Strategic Planning 
+- Problem Solving 
+- Sharepoint 
+- Editing 
+- Visio 
+- User Flows 
+- Paper Prototyping 
+- Affinity Diagramming 
+- User Acceptance Testing 
+- UAT coordination 
+- Process 
+- Requirements Gathering 
+- Use Case Analysis 
+- XML 
+- Adobe Framemaker 
+- Adobe Pagemaker 
+- Adobe Photoshop 
+- Microsoft Outlook 
+- Microsoft Office 
+- Microsoft Visio 
+- HTML 
+- Adobe CS suite 
+- wiki 
+- CMS 
+- Wordpress 
+- Drupal 
+- LMS (Learning Management System) 
+- Moodle 
+- Openoffice 
+- Markdown 
+- Style guide 
+- VIM 
+- Omnigraffle 
+- OmniPlan 
+- Gantt Charts 
+- Quality Manual 
+- Compliance Program 
+- Quality Assurance Program 
+- Compliance Auditing 
+- Smoothwall 
+- Single-sourcing 
+- Linux 
+- Adobe Acrobat 
+- Madcap Flare 
+- Twitter 
+- Facebook 
+- Technical Writers 
+- UAT 
+- Coordination 
+- Experienced Business Analyst 
+- Business Process Mapping 
+- Customer Service 
+- Employee Training 
+- Nonprofits 
+- Social Media Marketing 
+- Leadership 
+- Sales 
+- Training 
+- Program Management 
+- FrameMaker 
+- Technical Communication 
+- Technical Documentation 
+- Online Help 
+- Project Planning 
+- Content Management 
+- Manuals 
+- Interviews 
+- Software Documentation 
+- Business Process 
+- Microsoft Word 
+- Process Improvement 
+- Entrepreneurship 
+- Microsoft Excel 
+- Management 
+- Public Speaking
