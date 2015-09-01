@@ -17,7 +17,7 @@ Desjardins Financial Security Life Assurance Company
 
 ### Contract Writer
 
-September 2014 – Present (1 year 1 month)
+September 2014 to Present
 
 - Create contracts and agreements
 - Interpret terminology
