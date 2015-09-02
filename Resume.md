@@ -5,6 +5,7 @@ Contact Me ||
 --------|-----------------------|
 Address | 85 Roseheath Drive, Vaughan, Ontario   |
 Email   | sammy.lao@outlook.com |
+Linkedin | ca.linkedin.com/in/sammylao |
 Twitter | @razorgoto            |
 Tel     | 647-745-8328          |
 
