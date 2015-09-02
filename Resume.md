@@ -34,7 +34,7 @@ Weston Forest Group
 March 2008 to August 2014
 
 -   Draft operational policies  
--   Create policies policies and work breakdown structures  
+-   Create policies and work breakdown structures  
 -   Create user manuals for software systems  
 -   Create planning documents for software implementation  
 -   Create curriculum and teach users on software systems  
