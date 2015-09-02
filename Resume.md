@@ -3,8 +3,7 @@ Sammy Lao
 
 Contact Me ||
 --------|-----------------------|
-Address | 85 Roseheath Drive    |
-        | Toronto, Ontario      |
+Address | 85 Roseheath Drive, Vaughan, Ontario   |
 Email   | sammy.lao@outlook.com |
 Twitter | @razorgoto            |
 Tel     | 647-745-8328          |
@@ -24,7 +23,7 @@ September 2014 to Present
 - Interpret terminology
 - Identify and assemble correct information from the database
 - Develop and maintain a database of contract wordings, manuals, brochures, and contract templates 
-- Liaison with the Sales, Legal and Marketing departments
+- Liaise with the Sales, Legal and Marketing departments
 
 Weston Forest Group
 -------------------
