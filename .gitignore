@@ -215,8 +215,8 @@ pip-log.txt
 .mr.developer.cfg
 
 #PDF
-*.pdf
+#*.pdf
 
 #Microsoft Word
-*.doc
-*.docx
+#*.doc
+#*.docx
